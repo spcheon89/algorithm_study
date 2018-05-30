@@ -1,5 +1,5 @@
 # Solving problems (SW expert academy)
-----------
+
 ###Recording
 
 2018.05.30
