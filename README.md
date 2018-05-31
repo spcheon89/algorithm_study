@@ -1,6 +1,6 @@
 # Solving problems (SW expert academy)
 
-### Recording
+### Recording (2018.05.30 ~)
 
 2018.05.30
 >- D1: 2072 problem
