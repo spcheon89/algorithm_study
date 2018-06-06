@@ -21,5 +21,6 @@ int main()
     {
         sum += i;
     }
+    cout << sum << "\n";
     return 0;
 }
