@@ -34,14 +34,9 @@
 >- D1: 1938 problem
 >- D1: 1936 problem
 >- D1: 1933 problem
-<<<<<<< HEAD
-=======
 
 2018.06.07
 >- D1: 1545 problem
-<<<<<<< HEAD
->>>>>>> 039ef000fc83c252272facd4a5bc79c24e3db8b8
-=======
 
 2018.06.08
->>>>>>> 81f8bb540e9881718d8e55f7a1e910a01220fdd8
+>- D1: 2056 problem
